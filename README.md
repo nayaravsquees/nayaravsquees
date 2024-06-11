@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🫀
 
+Meu nome é Nayara Oliveira
 
-**nayaravsquees/nayaravsquees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvenddo na linguagem JavaScript
+- Ultilizo esse espaço para minha organização e compartilhamento do meu projetos desenvolvidos
 
-Here are some ideas to get you started:
+  ## você pode entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  emailinstitucional.com
 
+  @nayara.vsques
+
+![](https://media1.tenor.com/m/4BkgkX0YgFIAAAAd/amoroso-m%C3%A1rcio-amoroso.gif)
+  
