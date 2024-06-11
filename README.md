@@ -13,4 +13,4 @@ Meu nome é Nayara Oliveira
   @nayara.vsques
 
 ![](https://media1.tenor.com/m/4BkgkX0YgFIAAAAd/amoroso-m%C3%A1rcio-amoroso.gif)
-  
+https://media1.tenor.com/m/4BkgkX0YgFIAAAAd/amoroso-m%C3%A1rcio-amoroso.gif
