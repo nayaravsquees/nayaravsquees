@@ -8,7 +8,7 @@ Meu nome é Nayara Oliveira
 
   ## você pode entrar em contato comigo 📫
 
-  emailinstitucional.com
+  00001114798253sp@al.educacao.sp.gov.br
 
   @nayara.vsques
 
